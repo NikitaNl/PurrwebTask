@@ -1,0 +1,11 @@
+.popup-wrap-description {
+  width:100%;
+}
+.popup-wrap-description__title {
+  font-weight: bold;
+  text-align: start;
+  font-size: 14px;
+  line-height: 18px;
+  margin-bottom: 8px;
+  color:#172b4d;
+}
